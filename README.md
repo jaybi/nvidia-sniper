@@ -30,6 +30,7 @@ This bot helps us buy Nvidia Founders Edition GPUs as soon as they become availa
 - GeForce RTX 3090
 - GeForce RTX 3080
 - GeForce RTX 3070
+- GEForce RTX 3060 Ti
 - NVIDIA TITAN RTX
 - GeForce RTX 2080 Super
 - GeForce RTX 2070 Super
