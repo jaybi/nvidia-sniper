@@ -21,6 +21,7 @@ tqdm = "*"
 coloredlogs = "*"
 verboselogs = "*"
 fake-useragent = "*"
+windows-curses = "*"
 
 [requires]
 python_version = "3.8"

@@ -6,3 +6,6 @@ config/customer.json
 config/notifications.json
 sniper.log
 recaptcha_solver-5.7-fx.xpi
+
+#Code
+*.code-workspace
